@@ -1,0 +1,8 @@
+This chapter provides a brief introduction to the content that will be covered throughout the course before transitioning into a discussion of Key Performance Indicators or KPIs. You'll learn how to identify and define meaningful KPIs through a combination of critical thinking and leveraging Python tools. These techniques are all presented in a highly practical and generalizable way. 
+Ultimately these topics serve as the core foundation for the A/B testing discussion that follows.
+
+Course progression
+1. Understanding users — Key Performance Indicators
+2. Identifying trends — Exploratory Data Analysis
+3. Optimizing performance — Design of A/B Tests
+4. Data driven decisions — Analyzing A/B Test Results
